@@ -1,6 +1,6 @@
 <template>
     <header class="header">
-        <img src="@/assets/Dasdas Logo.png" alt="">
+        <img src="@/assets/Dasdas_Logo.png" alt="">
         <nav class="social-nav">
             <span>
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
