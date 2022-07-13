@@ -149,7 +149,7 @@ export default {
                 amount: 54600,
                 currency: "NGN",
                 payment_options: "card, banktransfer, ussd",
-                redirect_url: "https://glaciers.titanic.com/handle-flutterwave-payment",
+                redirect_url: "https://flutterwave-blog-test.netlify.app/",
                 meta: {
                     consumer_id: 23,
                     consumer_mac: "92a3-912ba-1192a",
