@@ -134,13 +134,9 @@ export default {
             const api = 'https://techcrunch.com/wp-json/wp/v2/posts'
             this.axios.get(api).then((response) => {
                 this.posts = response.data
-                console.log(response.data)
+                // console.log(response.data)
                 this.loading = true;
             })
-            // or
-            // this.$http.get(api).then((response) => {
-            //     console.log(response.data)
-            // })
         },
         makePayment() {
             FlutterwaveCheckout({

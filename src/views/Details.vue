@@ -53,11 +53,6 @@ export default {
     font-weight: 400;
     font-size: 14px;
     line-height: 21px;
-    /* or 150% */
-
-
-    /* --c-black-20 */
-
 
     &__top {
         display: flex;
